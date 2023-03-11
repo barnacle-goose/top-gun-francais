@@ -16,7 +16,7 @@ Mission accomplie.
 
 5
 00:00:51,000 --> 00:00:52,500
-La marine appelle cette école: Fighter Weapons School
+La marine appelle cette école: Fighter Weapons School.
 
 6
 00:00:54,500 --> 00:00:56,000
@@ -24,20 +24,20 @@ Les pilotes l’appellent:
 
 7
 00:04:02,000 --> 00:04:05,000
-Océan Indien. Aujourd’hui
+Océan Indien. Aujourd’hui.
 
 8
 00:04:09,000 --> 00:04:10,000
-Bonjour Scott
+Bonjour Scott.
 
 9
 00:04:10,000 --> 00:04:11,000
-Bonjour Vince
+Bonjour Vince.
 
 10
 00:04:11,000 --> 00:04:12,000
-- Bonjour Wells
-- Bonjour mon commandent
+- Bonjour Wells.
+- Bonjour mon commandent.
 
 11
 00:04:12,000 --> 00:04:13,000
@@ -49,11 +49,11 @@ Ghost Rider, ici Strike.
 
 13
 00:04:18,500 --> 00:04:21,000
-Cible non identifiée en rapprochement porte-avions
+Cible non identifiée en rapprochement porte-avions.
 
 14
 00:04:21,000 --> 00:04:22,500
-Le target est dans zero quatre-vignt-dix (090)
+Le target est dans zero quatre-vignt-dix (090).
 
 15
 00:04:33,500 --> 00:04:34,500
@@ -61,15 +61,15 @@ Qui est en mission?
 
 16
 00:04:35,000 --> 00:04:37,000
-Cougar, Merlin, Maverick et Goose
+Cougar, Merlin, Maverick et Goose.
 
 17
 00:04:38,000 --> 00:04:39,000
-Mon dieu
+Bon dieu.
 
 18
 00:04:40,000 --> 00:04:41,000
-Maverick et Goose
+Maverick et Goose.
 
 19
 00:04:50,000 --> 00:04:51,000
@@ -77,15 +77,15 @@ Renseigne-moi, Goose.
 
 20
 00:04:52,000 --> 00:04:53,000
-Roger, je [le] cadre
+Roger, je [le] cadre.
 
 21
 00:04:53,000 --> 00:04:54,500
-Contact vingt degrés gauche, trente nautiques
+Contact vingt degrés gauche, trente nautiques.
 
 22
 00:04:54,500 --> 00:04:56,000
-Vitesse rapprochement neuf-cent (900) nœuds
+Vitesse rapprochement neuf-cent (900) nœuds.
 
 23
 00:04:56,500 --> 00:04:57,500
@@ -93,43 +93,43 @@ Cougar? T'endends ca?
 
 24
 00:04:58,500 --> 00:04:59,000
-Roger
+Roger.
 
 25
 00:04:59,500 --> 00:05:00,500
-Merlin, tu l'as [?] ?
+Merlin, tu l'as [?]?
 
 26
 00:05:01,000 --> 00:05:02,500
-Roger. Je l’ai en contact radar
+Roger. Je l’ai en contact radar.
 
 27
 00:05:03,000 --> 00:05:05,000
-[?] connaissance a vue cougar, a toi t-il faire
+[?] connaissance a vue cougar, a toi t-il faire.
 
 28
 00:05:05,500 --> 00:05:07,000
-Roger, je l[e] vides et je l[e] passe à la poêle
+Roger, je l[e] vides et je l[e] passe à la poêle.
 
 29
 00:05:14,750 --> 00:05:17,500
-Porte avions Mustang. Ici Ghost Rider deux-zéro-trois (203)
+Porte avions Mustang. Ici Ghost Rider deux-zéro-trois (203).
 
 30
 00:05:18,000 --> 00:05:21,000
-J'ai une piste-cible. Un target au cap deux-sept-zéro
+J'ai une piste-cible. Un target au cap deux-sept-zéro.
 
 31
 00:05:21,000 --> 00:05:22,500
-On est à dix nautiques
+On est à dix nautiques.
 
 32
 00:05:22,500 --> 00:05:24,000
-Vitesse le rapprochement neuf-cent (900) nœuds
+Vitesse le rapprochement neuf-cent (900) nœuds.
 
 33
 00:05:24,500 --> 00:05:27,250
-Ghost Rider.  Ouvrez de dix (10), gauche au zéro-trente (030)
+Ghost Rider.  Ouvrez de dix (10), gauche au zéro-trente (030).
 
 34
 00:05:27,500 --> 00:05:29,000
@@ -137,7 +137,7 @@ On a prévu [de] connaître des visiteurs aujourd'hui?
 
 35
 00:05:29,000 --> 00:05:30,500
-Negatif commandent
+Negatif commandent.
 
 36
 00:05:38,000 --> 00:05:39,500
@@ -145,7 +145,7 @@ Merlin, tu vois s’il est seul?
 
 37
 00:05:40,000 --> 00:05:41,000
-Roger
+Roger.
 
 38
 00:05:42,500 --> 00:05:44,000
@@ -153,11 +153,11 @@ Goose, tu as tu une trainée?
 
 39
 00:05:45,000 --> 00:05:46,000
-Negatif, Merlin
+Negatif, Merlin.
 
 40
 00:05:46,500 --> 00:05:48,000
-On dirait qu'il est tout seul
+On dirait qu'il est tout seul.
 
 41
 00:05:48,000 --> 00:05:50,000
@@ -165,19 +165,19 @@ Ah Cougar, je me présente en face a face?
 
 42
 00:05:50,000 --> 00:05:51,000
-Attention Maverick...
+Attention Maverick
 
 43
 00:05:51,000 --> 00:05:52,000
-J'ai horreur de ces conneries
+J'ai horreur de ces conneries.
 
 44
 00:05:52,500 --> 00:05:55,500
-Je contré par le droite et vers lehaut pour voir s'il est solo
+Je contré par le droite et vers lehaut pour voir s'il est solo.
 
 45
 00:06:14,500 --> 00:06:17,500
-Maverick, mille [1000] nœuds d'en rapprochement.  Il vient droit sur nous
+Maverick, mille [1000] nœuds d'en rapprochement.  Il vient droit sur nous.
 
 46
 00:06:18,000 --> 00:06:20,000
@@ -193,11 +193,11 @@ Il y en a deux!
 
 49
 00:06:24,500 --> 00:06:25,500
-Woohoo des mig vingt-huit [28] 
+Woohoo des mig vingt-huit [28].
 
 50
 00:06:25,500 --> 00:06:26,750
-J'en ai jamais des vus si près
+J'en ai jamais des vus si près.
 
 51
 00:06:27,000 --> 00:06:29,000
@@ -205,11 +205,49 @@ Qu'est-ce qu'ils foutent de la par ici?  Quelle position?
 
 52
 00:06:29,500 --> 00:06:31,500
-Er, deux-cent-cinquante [250] nautiques commandant
+Er, deux-cent-cinquante [250] nautiques commandant.
 
 53
 00:06:31,500 --> 00:06:33,500
-Deux-cent-cinquante seulement? Virez le mort la
+Deux-cent-cinquante seulement? Virez le mort la.
+
+54
+00:06:36,000 --> 00:06:38,000
+Cougar, tu prends Mig-un.  Moi, je me le fais deux.
+
+55
+00:06:40,250 --> 00:06:42,250
+Il est paumé en soleil.
+
+56
+00:06:43,500 --> 00:06:45,250
+Merde. Qu'est qu'il fout?
+
+57
+00:06:45,500 --> 00:06:47,000
+Tu l'as Merlin?
+
+58
+00:06:48,500 --> 00:06:50,500
+Engageons nous. Il [doit?] de nous six heures.
+
+59
+00:06:52,000 --> 00:06:54,000
+Sacré bon dieu.  [?] quoi?
+
+59
+00:06:58,000 --> 00:06:59,500
+Il est a quel distance?
+
+60
+00:07:00,000 --> 00:07:01,500
+Deux-cent (200) nautiques commandent?
+
+70
+00:07:02,000 --> 00:07:04,000
+S'ils passent a moins cent-cinquant (150), [?] lancez l'alerte a 5 immediatement!
+
+
 
 
 
