@@ -37,7 +37,7 @@ Bonjour Vince.
 10
 00:04:11,000 --> 00:04:12,000
 - Bonjour Wells.
-- Bonjour mon commandent.
+- Bonjour mon commandant.
 
 11
 00:04:12,000 --> 00:04:13,000
@@ -137,7 +137,7 @@ On a prévu [de] connaître des visiteurs aujourd'hui?
 
 35
 00:05:29,000 --> 00:05:30,500
-Negatif commandent.
+Negatif commandant.
 
 36
 00:05:38,000 --> 00:05:39,500
@@ -236,20 +236,52 @@ Engageons nous. Il [doit?] de nous six heures.
 Sacré bon dieu.  [?] quoi?
 
 59
-00:06:58,000 --> 00:06:59,500
-Il est a quel distance?
+00:06:57,500 --> 00:06:59,000
+Et la, a quelle distance?
 
 60
-00:07:00,000 --> 00:07:01,500
-Deux-cent (200) nautiques commandent?
+00:06:59,500 --> 00:07:01,000
+Deux-cent (200) nautiques commandant?
 
 70
-00:07:02,000 --> 00:07:04,000
-S'ils passent a moins cent-cinquant (150), [?] lancez l'alerte a 5 immediatement!
+00:07:01,500 --> 00:07:04,000
+S'ils passent a moins cent-cinquant (150), vous m[e] lancez l'alerte 5 immediatement!
 
+71
+00:07:04,000 --> 00:07:05,000
+- bien commandant.
 
+72
+00:07:07,000 --> 00:07:09,000
+Vitesse trois-cent (300) nœuds, Maverick.  Engage-le.
 
+73
+00:07:09,000 --> 00:07:10,500
+J'ai l'accroché radar.
 
+74
+00:07:11,000 --> 00:07:13,000
+On va tâcher de [lui] foutre des foies.
+
+75
+00:07:14,000 --> 00:07:16,000
+Vas y accroche ma puce.
+
+76
+00:07:16,500 --> 00:07:17,500
+Accroche [?]
+
+77
+00:07:18,000 --> 00:07:19,000
+Accroche...
+
+78
+00:07:19,000 --> 00:07:20,500
+Ca y est accroché.
+
+79
+00:07:21,000 --> 00:07:22,000
+Youpie!
 
 
 
