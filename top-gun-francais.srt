@@ -269,10 +269,10 @@ Vas y accroche ma puce.
 
 76
 00:07:16,500 --> 00:07:17,500
-Accroche [?]
+Accroche le radar
 
 77
-00:07:18,000 --> 00:07:19,000
+a0:07:18,000 --> 00:07:19,000
 Accroche...
 
 78
@@ -282,6 +282,44 @@ Ca y est accroché.
 79
 00:07:21,000 --> 00:07:22,000
 Youpie!
+
+80
+00:07:27,000 --> 00:07:29,000
+On la passé.  Il dégage et se replie.
+
+81
+00:07:30,000 --> 00:07:32,000
+A Mustang de Maverick.  Mig-deux a fui.
+
+83
+00:07:33,500 --> 00:07:35,000
+Trés bien et leur position?
+
+84
+00:07:35,000 --> 00:07:37,000
+Cent-quatre-vingts (180) nautiques commandant, pour [?] relevement zero-dix (010).
+
+85
+00:07:42,000 --> 00:07:44,000
+Cougar, il nous a accrochés missile! Dégage toi du Mig!
+
+86
+00:07:44,500 --> 00:07:46,500
+Sacré bordel, cette [?ca le?] m'engage.
+
+87
+00:07:49,000 --> 00:07:52,500
+[?] Mustang de Ghost Rider un-un-sept (1-1-7). Le fumier m'a accroché.
+
+88
+00:07:52,500 --> 00:07:55,000
+Il a m'accroché missile. Authorisation tir?
+
+89
+00:07:55,000 --> 00:07:57,000
+Ne tirez pas.  [?En tir?] restreint sans plus.
+
+
 
 
 
